@@ -34,97 +34,13 @@
       "conteudo": "May we be together...",
       "autoria": "Eminem",
       "modelo": "modelo3",
-      "id": 5
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
       "id": 6
     },
     {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
+      "conteudo": "Incluindo função de edição",
+      "autoria": "Angular Dev2",
       "modelo": "modelo3",
       "id": 7
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 8
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 9
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 10
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 11
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 12
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 13
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 14
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 15
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 16
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 17
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 18
-    },
-    {
-      "conteudo": "May we be together...",
-      "autoria": "Eminem",
-      "modelo": "modelo3",
-      "id": 19
-    },
-    {
-      "conteudo": "But i don't care it all...",
-      "autoria": "Dido",
-      "modelo": "modelo3",
-      "id": 20
     }
   ]
 }
